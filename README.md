@@ -1,0 +1,1 @@
+Poroduction Planning Scheduling are done by the Excel Advanced Power Query and Power Pivot with DAX formulas. It is an automation in large scale planning where Data model in excel played an important role.
